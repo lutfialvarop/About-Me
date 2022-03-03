@@ -1,8 +1,8 @@
-## About Me
+# About Me
 
 Hello my name **Lutfi Alvaro Pratama**. You can call me **Lutfi**, i like coding and i am student. I think my repository can help you all
 
-# Skill
+## Skill
 
 - C++
 - C#
@@ -10,6 +10,6 @@ Hello my name **Lutfi Alvaro Pratama**. You can call me **Lutfi**, i like coding
 - JavaScript
 - PHP
 
-# Contact
+## Contact
 
 >Email : lutfialvarop@gmail.com
