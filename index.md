@@ -17,4 +17,4 @@ Hello my name **Lutfi Alvaro Pratama**. You can call me **Lutfi**, i like coding
 
 ## Quote
 
->"We learn more from failure than success. Don't let failure stop us. Keep the spirit and don't give up"
+>**"Change impossible to possible. Change useless to useful. Change couldn't to could. Keep spirit and don't give up"**
