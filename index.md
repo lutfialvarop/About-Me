@@ -15,4 +15,6 @@ Hello my name **Lutfi Alvaro Pratama**. You can call me **Lutfi**, i like coding
 
 >Email : lutfialvarop@gmail.com
 
+## Quote
+
 >"We learn more from failure than success. Don't let failure stop us. Keep the spirit and don't give up"
